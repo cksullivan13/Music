@@ -1,0 +1,15 @@
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.csprojAssemblyReference.cache
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\App.g.cs
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop_MarkupCompile.cache
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop_MarkupCompile.lref
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\bin\Debug\Music_Theory_Desktop.exe.config
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\bin\Debug\Music_Theory_Desktop.exe
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\bin\Debug\Music_Theory_Desktop.pdb
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\MainWindow.baml
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.g.resources
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.Properties.Resources.resources
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.csproj.GenerateResource.cache
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.exe
+C:\Users\Chet\Desktop\Projects\C#\Music_Theory_Desktop\Music_Theory_Desktop\obj\Debug\Music_Theory_Desktop.pdb
